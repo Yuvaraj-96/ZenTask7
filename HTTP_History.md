@@ -15,7 +15,7 @@
      A very simple HTML page
      </HTML>
      
- **2. HTTP/1.0 – Building extensibility   **
+  **2. HTTP/1.0 – Building extensibility**
  
      a) Versioning information is now sent within each request (HTTP/1.0 is appended to the GET line).
      b) A status code line is also sent at the beginning of the response, allowing the browser itself to understand the success or failure of the request and to adapt its behavior in consequence
